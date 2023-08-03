@@ -15,7 +15,7 @@ int main()
         printf("This is 8. ");
       }
     }
-    printf("ok ");
+    printf("ok");
   }
   return 0;
 }
